@@ -18,6 +18,12 @@ I am a Machine Learning Research Engineer with a strong background in applied re
 *Jun 2022 — Present*
 - Implemented a privacy-preserving loss function using the Hilbert Schmidt Independence Criterion (HSIC), enhancing model security against inversion and membership attacks.
 - Advanced model performance through innovative techniques such as MixUp, Intra-instahide, and Gradprune, focusing on boosting defense mechanisms and convergence efficiency.
+- Developed a modular framework with leakage metrics for evaluating model defenses before deployment against inversion attacks
+- Created a new strategy for varying learning rate between rounds and epochs with implementing custom cyclic learning rate schedulers for
+distributed learning
+- Transformed the training protocol by implementing split inference, eliminating the need to send the server model to clients for evaluation.
+Developed a distributed evaluation process, optimizing efficiency and data privacy while aligning with industry standards
+
 
 ### [Previous Role]
 **[Previous Company]**  
